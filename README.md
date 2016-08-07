@@ -1,7 +1,7 @@
 # test
 ##学习如何使用github
 
-1、如何创建github仓库
+###1、如何创建github仓库
 
 + 选择 New repository 按钮 
 + 添加 Repository name（及仓库名）
