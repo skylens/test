@@ -10,5 +10,6 @@
 + 选择 Initialize this repository with a READM （初始化仓库时自动创建一个READM文件）
 + 选择 Create repository 按钮 （完成仓库的创建）
 
-
+###2、在主分支下创建一个子文件夹
++ 选择 New 
 
