@@ -1,7 +1,7 @@
 # test
 ##学习如何使用github
 
-(windows : GitHub + Atom geng更fang更方便 )
+(windows : GitHub + Atom 更方便 )
 
 ###1、如何创建github仓库
 
