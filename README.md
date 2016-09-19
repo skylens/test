@@ -57,3 +57,18 @@ $ git init
 $ git clone http://github.com/your_github_name/your_github_repositorie_name.git
 $
 ```
+
+###5、linux 下的一次简单的提交
+
+```
+$ git clone https://github.com/tux116/linux.git
+$ cd linux/
+$ vim 日记
+今天是x月x日
+$ git status
+$ git add 日记
+$ git status
+$ git commit
+$ git stauts
+$ git push
+```
