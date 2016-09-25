@@ -63,12 +63,13 @@ $
 ```
 $ git clone https://github.com/tux116/linux.git
 $ cd linux/
+$ git pull //从github上拉取最新的版本
 $ vim 日记
 今天是x月x日
-$ git status
-$ git add 日记
-$ git status
-$ git commit
-$ git stauts
-$ git push
+$ git status //查看git状态
+$ git add 日记 //添加文件
+$ git status //查看git状态
+$ git commit //进行提交
+$ git stauts //查看git状态
+$ git push //把本地的版本推送到github上
 ```
