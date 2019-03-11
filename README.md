@@ -73,3 +73,5 @@ $ git commit //进行提交
 $ git stauts //查看git状态
 $ git push //把本地的版本推送到github上
 ```
+
+###6、
